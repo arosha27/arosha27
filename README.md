@@ -20,9 +20,6 @@
 - 🎬 [Movie Recommender System](https://github.com/arosha27/ML-Project-MovieRecommenderSystem)  
   A content-based recommender built with NLP techniques and similarity scoring.
 
-- 🤖 [AI Text Detector (Kaggle Competition)](https://www.kaggle.com/competitions/llm-detect-ai-generated-text)  
-  Working on detection models for AI-generated vs human-written text using transformer models.
-
 - 📚 [Movie Recommender system (In Progress)](https://github.com/arosha27/BookRecommenderSystem)  
   End-to-end system using 7K books dataset, combining metadata and collaborative filtering.
 
