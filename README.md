@@ -20,7 +20,7 @@
 - 🎬 [Movie Recommender System](https://github.com/arosha27/ML-Project-MovieRecommenderSystem)  
   A content-based recommender built with NLP techniques and similarity scoring.
 
-- 📚 [Movie Recommender system (In Progress)](https://github.com/arosha27/BookRecommenderSystem)  
+- 📚 [Book Recommender system (In Progress)](https://github.com/arosha27/BookRecommenderSystem)  
   End-to-end system using 7K books dataset, combining metadata and collaborative filtering.
 
 ---
