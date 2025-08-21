@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Arosha Bakhtawar
 
 🎯 **Machine Learning and Deep Learning Practitioner**, skilled in designing, training, and deploying full-cycle **AI/ML pipelines** for real-world applications.
+
 🚀 Continuously exploring **Kaggle competitions** and cutting-edge AI research to stay ahead in the field.
 
 ---
